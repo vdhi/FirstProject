@@ -1,0 +1,21 @@
+========== CHECKLIST =======================
+
+* Project Starter Checklist / JIRA creation
+
+* Design Document
+
+* Design Review & Approval with TPM
+
+* Development & Code Review
+
+* QA Test cases verification
+
+* Perforce check-in with JIRA ID
+
+* Demo to TPM & QA - before QA drop
+
+* Release Notes / Dev Signoff 
+
+* QA drop (Include Tech Doc)
+
+* Video build / Source - Compliance Release
